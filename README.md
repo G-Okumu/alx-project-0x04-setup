@@ -52,5 +52,5 @@ By completing these projects, you will:
 - Avoid unnecessary re-renders with proper state selection
 - Consider using Redux middleware for complex side effects
 
-<p>Copyright George Okumu and ALX Tutorial 2025</p>
+<p>Copyright George Okumu and ALX PRO-DEV 2025</p>
 
